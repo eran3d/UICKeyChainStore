@@ -10,7 +10,7 @@ let package = Package(
 
     targets: [
         .target(
-            name: "UICKeyChainStore",
+            name: "libUICKeyChainStore",
             dependencies: [],
             path: "Lib/UICKeyChainStore"
             )
